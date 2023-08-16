@@ -1,0 +1,7 @@
+.vscode/
+.git/
+/node_modules/
+/output/*
+/config/*
+!/config/config_base.json
+/images/icons/*

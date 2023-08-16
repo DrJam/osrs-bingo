@@ -1,0 +1,37 @@
+{
+    "size": 5,
+    "center": { "name": "", "note": "", "difficulty": 0, "icon": "" },
+    "tiles": [
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" },
+        { "name": "", "note": "", "difficulty": 0, "icon": "" }
+    ],
+    "players": [
+        { "name": "", "tiles": null },
+        { "name": "", "tiles": null },
+        { "name": "", "tiles": null },
+        { "name": "", "tiles": null },
+        { "name": "", "tiles": null }
+    ]
+}

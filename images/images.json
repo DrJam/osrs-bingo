@@ -1,0 +1,14 @@
+{
+    "clog": {
+        "width": 198,
+        "height": 111,
+        "marginTop": 12,
+        "marginSide": 12,
+        "iconCenterX": 99,
+        "iconCenterY": 66,
+        "iconMaxHeight": 69
+    },
+    "composite": {
+        "marginTop": 30
+    }
+}
